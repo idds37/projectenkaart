@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.855300001,
+          52.406600004
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "adres": "BSZ_point",
+        "email": "financien@dunavie.nl",
+        "infra": false,
+        "milieu": false,
+        "status": "Offerte",
+        "ecologie": true,
+        "telefoon": "071-8200800",
+        "kvknummer": "28042168",
+        "bouw_sloop": false,
+        "planadvies": false,
+        "archeologie": true,
+        "explosieven": false,
+        "locatiecode": "BSZ",
+        "projectnaam": "",
+        "civilink_flex": false,
+        "opdrachtgever": "Dunavie",
+        "projectnummer": "B0001",
+        "civilink_engineering": false,
+        "civilink_projectsupport": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.842900001,
+            52.385300004
+          ],
+          [
+            4.893200001,
+            52.385900004
+          ],
+          [
+            4.891900001,
+            52.407000004
+          ],
+          [
+            4.844500001,
+            52.396800004
+          ],
+          [
+            4.843600001,
+            52.387200004
+          ],
+          [
+            4.856100001,
+            52.387300004
+          ],
+          [
+            4.889600001,
+            52.405100004
+          ]
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "adres": "BSZ_line",
+        "email": "info@bussum.nl",
+        "infra": false,
+        "milieu": false,
+        "status": "Offerte",
+        "ecologie": false,
+        "telefoon": "(035) 207 0000",
+        "kvknummer": "0",
+        "bouw_sloop": true,
+        "planadvies": false,
+        "archeologie": false,
+        "explosieven": true,
+        "locatiecode": "BSZ",
+        "projectnaam": "",
+        "civilink_flex": false,
+        "opdrachtgever": "Gemeente Gooise Meren",
+        "projectnummer": "B0002",
+        "civilink_engineering": false,
+        "civilink_projectsupport": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.876800001,
+              52.377800004
+            ],
+            [
+              4.875100001,
+              52.373800004
+            ],
+            [
+              4.878500001,
+              52.372700004
+            ],
+            [
+              4.882800001,
+              52.374200004
+            ],
+            [
+              4.881300001,
+              52.376700004
+            ],
+            [
+              4.879500001,
+              52.377400004
+            ],
+            [
+              4.876800001,
+              52.377800004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "adres": "BSZ_poly",
+        "email": "leverancierbeheer@randstadgroep.nl",
+        "infra": true,
+        "milieu": true,
+        "status": "Offerte",
+        "ecologie": false,
+        "telefoon": "(020) 519 7777",
+        "kvknummer": "0",
+        "bouw_sloop": false,
+        "planadvies": false,
+        "archeologie": false,
+        "explosieven": false,
+        "locatiecode": "BSZ",
+        "projectnaam": "",
+        "civilink_flex": false,
+        "opdrachtgever": "Yacht BV",
+        "projectnummer": "B0003",
+        "civilink_engineering": false,
+        "civilink_projectsupport": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.903800001,
+              52.376900004
+            ],
+            [
+              4.903200001,
+              52.376300004
+            ],
+            [
+              4.903600001,
+              52.375300004
+            ],
+            [
+              4.908200001,
+              52.372800004
+            ],
+            [
+              4.908800001,
+              52.372700004
+            ],
+            [
+              4.910800001,
+              52.372100004
+            ],
+            [
+              4.912100001,
+              52.374400004
+            ],
+            [
+              4.910700001,
+              52.374700004
+            ],
+            [
+              4.909900001,
+              52.375100004
+            ],
+            [
+              4.909300001,
+              52.375200004
+            ],
+            [
+              4.903800001,
+              52.376900004
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "adres": "BSZ_poly_2",
+        "email": "facturen@amsterdam.nl",
+        "infra": false,
+        "milieu": false,
+        "status": "Offerte",
+        "ecologie": false,
+        "telefoon": "020-255 29 12",
+        "kvknummer": "34366966",
+        "bouw_sloop": false,
+        "planadvies": true,
+        "archeologie": false,
+        "explosieven": false,
+        "locatiecode": "BSZ",
+        "projectnaam": "",
+        "civilink_flex": false,
+        "opdrachtgever": "Gemeente Amsterdam",
+        "projectnummer": "B0004",
+        "civilink_engineering": false,
+        "civilink_projectsupport": true
+      }
+    }
+  ]
+}
